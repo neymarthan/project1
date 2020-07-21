@@ -1,5 +1,5 @@
 t = True
-type(f)
+print(type(t))
 f = False
-type(f)
+print(type(f))
 print(f)
