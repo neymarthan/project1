@@ -4,5 +4,5 @@ income= float(input('what is your income?'))
 #display the data.
 print('here is the data you entered:')
 print('name:', name)
-print('Age:',age)
+print('Age:', Age)
 print('Income:',format(income,'12,.2f'))
