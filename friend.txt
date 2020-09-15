@@ -1,0 +1,3 @@
+than
+& C:/Users/Thanthai/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Thanthai/Desktop/yyyyyyy/project1/lecture3/filewrite.py/no6.py
+& C:/Users/Thanthai/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Thanthai/Desktop/yyyyyyy/project1/lecture3/filewrite.py/no6.py
